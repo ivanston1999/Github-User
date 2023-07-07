@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="hint">Search</string>
+
+    <string name="tab1">Following</string>
+    <string name="tab2">Followers</string>
+
+
+    <style name="lay1">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>
